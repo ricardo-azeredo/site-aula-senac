@@ -16,6 +16,12 @@
             </a>
             <a
              target="_blank" 
+             href="https://docs.google.com/presentation/d/1Vw1C3OWfxDs-1NHFMbfU_KYBHBhNPQKy/edit?usp=sharing&ouid=114130750348912937035&rtpof=true&sd=true"
+            >
+                Mapa da empatia
+            </a>
+            <a
+             target="_blank" 
              href="https://drive.google.com/file/d/1nzF5Ewg-KVCNRVBTH45KBUPilm6-_D3U/view?usp=sharing"
             >
                 Aula 1 - Atividade
