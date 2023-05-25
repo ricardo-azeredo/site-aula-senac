@@ -10,9 +10,9 @@
         <div class="slide-links">            
             <a
              target="_blank" 
-             href="https://drive.google.com/file/d/1WamRtD-0GxJd2XUQzgp7F4ZySFTTNqRy/view?usp=sharing"
+             href="https://docs.google.com/presentation/d/11Uvi5Flx1YA4I8fPq8Ea6E5_brhTJVkT/edit?usp=sharing&ouid=114130750348912937035&rtpof=true&sd=true"
             >
-                Aula 1 - Ideias para Startup
+                Aula 1 - Lean Startup
             </a>
             <a
              target="_blank" 
@@ -20,13 +20,7 @@
             >
                 Aula 1 - Atividade
             </a>
-            <a
-             target="_blank" 
-                style="display:none"
-             href="lean-startup.php"
-            >
-                Aula 1 - lean startup
-            </a>
+            
         </div>
     </main>  
     
