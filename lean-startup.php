@@ -46,6 +46,30 @@
             </a>
             <a
              target="_blank" 
+             href="https://docs.google.com/presentation/d/1KrSm7i2sMZbasU5fGEt5wN3n_YCmfojR/edit?usp=sharing&ouid=114130750348912937035&rtpof=true&sd=true"
+            >
+                Aula 4 - Lean Startup - MVP
+            </a>
+            <a
+             target="_blank" 
+             href="https://docs.google.com/presentation/d/1Odhl4qiR1CjnEjaYggjnsovBTz_iWC5n/edit?usp=sharing&ouid=114130750348912937035&rtpof=true&sd=true"
+            >
+                Aula 4 - Lean Startup - Mapa Conceitual
+            </a>
+            <a
+             target="_blank" 
+             href="https://drive.google.com/file/d/1gsubx5m1tSupvh0S7vs3x3mPo3SMcrZs/view?usp=sharing"
+            >
+                Aula 4 - Lean Startup - Mapa Conceitual Exemplo
+            </a>
+            <a
+             target="_blank" 
+             href="https://docs.google.com/document/d/1gtTjsLdvqUItSjJEtOAfxZpl_rnSnQrq/edit?usp=sharing&ouid=114130750348912937035&rtpof=true&sd=true"
+            >
+                Aula 4 - Lean Startup - Atividade
+            </a>
+            <a
+             target="_blank" 
              href="https://drive.google.com/drive/folders/1tf7bp3ro-_jgVrWoA7fMKsQUI9ZwtbKO?usp=sharing"
             >
                 Modelos de Quadros Business Model Canvas
