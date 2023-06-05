@@ -64,6 +64,12 @@
             </a>
             <a
              target="_blank" 
+             href="https://drive.google.com/file/d/1wXCUPreTGO_Dx1eZP1y6hWjRIxRdTFsK/view?usp=sharing"
+            >
+                Aula 4 - Pitch Desk
+            </a>
+            <a
+             target="_blank" 
              href="https://docs.google.com/document/d/1gtTjsLdvqUItSjJEtOAfxZpl_rnSnQrq/edit?usp=sharing&ouid=114130750348912937035&rtpof=true&sd=true"
             >
                 Aula 4 - Lean Startup - Atividade

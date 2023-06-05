@@ -22,6 +22,12 @@
             </a>
             <a
              target="_blank" 
+             href="https://drive.google.com/file/d/1wXCUPreTGO_Dx1eZP1y6hWjRIxRdTFsK/view?usp=sharing"
+            >
+                Aula 4 - Template Pitch Desk
+            </a>
+            <a
+             target="_blank" 
                 style="display:none"
              href="lean-startup.php"
             >
