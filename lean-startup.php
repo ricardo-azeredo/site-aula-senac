@@ -82,6 +82,12 @@
             </a>
             <a
              target="_blank" 
+             href="https://www.figma.com/proto/VoDx49Fn29fAyJq8B8MrR5/Palo-Ponto?page-id=0%3A1&node-id=9-11&starting-point-node-id=1%3A5"
+            >
+                App Ponto - Protótipo
+            </a>
+            <a
+             target="_blank" 
              style="display:none"
              href="https://drive.google.com/drive/folders/1OzkUCL2s0EcAIJUQ2ht4S-i4pDZbGvq_?usp=sharing"
             >
